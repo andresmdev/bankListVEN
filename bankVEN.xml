@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<element>
+		<URL>https://www.bcv.org.ve/</URL>
+		<code>0001</code>
+		<name>Banco Central de Venezuela</name>
+		<rif>G200001100</rif>
+		<shortName>BCV</shortName>
+	</element>
+	<element>
+		<URL>http://www.bancodevenezuela.com/</URL>
+		<code>0102</code>
+		<name>Banco de Venezuela S.A.C.A. Banco Universal</name>
+		<rif>G200099976</rif>
+		<shortName>Banco de Venezuela</shortName>
+	</element>
+	<element>
+		<URL>http://www.venezolano.com/</URL>
+		<code>0104</code>
+		<name>Venezolano de Crédito, S.A. Banco Universal</name>
+		<rif>J000029709</rif>
+		<shortName>Venezolano de Crédito</shortName>
+	</element>
+	<element>
+		<URL>https://www.mercantilbanco.com/</URL>
+		<code>0105</code>
+		<name>Banco Mercantil, C.A. Banco Universal</name>
+		<rif>J000029610</rif>
+		<shortName>Mercantil</shortName>
+	</element>
+	<element>
+		<URL>https://www.provincial.com/</URL>
+		<code>0108</code>
+		<name>Banco Provincial, S.A. Banco Universal</name>
+		<rif>J000029679</rif>
+		<shortName>Banco Provincial - BBVA</shortName>
+	</element>
+	<element>
+		<URL>https://www.bancaribe.com.ve/</URL>
+		<code>0114</code>
+		<name>Bancaribe C.A. Banco Universal</name>
+		<rif>J000029490</rif>
+		<shortName>Bancaribe</shortName>
+	</element>
+	<element>
+		<URL>http://www.bancoexterior.com/</URL>
+		<code>0115</code>
+		<name>Banco Exterior C.A. Banco Universal</name>
+		<rif>J000029504</rif>
+		<shortName>Banco Exterior</shortName>
+	</element>
+	<element>
+		<URL>http://www.bod.com.ve/</URL>
+		<code>0116</code>
+		<name>Banco Occidental de Descuento, Banco Universal C.A</name>
+		<rif>J300619460</rif>
+		<shortName>BOD</shortName>
+	</element>
+	<element>
+		<URL>http://www.bancocaroni.com.ve/</URL>
+		<code>0128</code>
+		<name>Banco Caroni C.A. Banco Universal </name>
+		<rif>J095048551</rif>
+		<shortName>Banco Caroni</shortName>
+	</element>
+	<element>
+		<URL>http://www.banesco.com/</URL>
+		<code>0134</code>
+		<name>Banesco Banco Universal S.A.C.A.</name>
+		<rif>J070133805</rif>
+		<shortName>Banesco</shortName>
+	</element>
+	<element>
+		<URL>http://www.sofitasa.com/</URL>
+		<code>0137</code>
+		<name>Banco Sofitasa, Banco Universal</name>
+		<rif>J090283846</rif>
+		<shortName>Sofitasa</shortName>
+	</element>
+	<element>
+		<URL>http://www.bancoplaza.com/</URL>
+		<code>0138</code>
+		<name>Banco Plaza, Banco Universal C.A</name>
+		<rif>J002970553</rif>
+		<shortName>Banco Plaza</shortName>
+	</element>
+	<element>
+		<URL>http://www.bangente.com.ve/</URL>
+		<code>0146</code>
+		<name>Banco de la Gente Emprendedora C.A</name>
+		<rif>J301442040</rif>
+		<shortName>Bangente</shortName>
+	</element>
+	<element>
+		<URL>https://www.bfc.com.ve/</URL>
+		<code>0151</code>
+		<name>Banco Fondo Común C.A. Banco Universal</name>
+		<rif>J000723060</rif>
+		<shortName>Banco Fondo Comun</shortName>
+	</element>
+	<element>
+		<URL>http://www.100x100banco.com/</URL>
+		<code>0156</code>
+		<name>100% Banco, Banco Universal C.A.</name>
+		<rif>J085007768</rif>
+		<shortName>100% Banco</shortName>
+	</element>
+	<element>
+		<URL>http://www.delsur.com.ve/</URL>
+		<code>0157</code>
+		<name>DelSur, Banco Universal C.A.</name>
+		<rif>J000797234</rif>
+		<shortName>DelSur </shortName>
+	</element>
+	<element>
+		<URL>http://www.bt.gob.ve/</URL>
+		<code>0163</code>
+		<name>Banco del Tesoro, C.A. Banco Universal</name>
+		<rif>G200051876</rif>
+		<shortName>Banco del Tesoro</shortName>
+	</element>
+	<element>
+		<URL>http://www.bav.com.ve/  </URL>
+		<code>0166</code>
+		<name>Banco Agrícola de Venezuela, C.A. Banco Universal</name>
+		<rif>G200057955</rif>
+		<shortName>Banco Agrícola</shortName>
+	</element>
+	<element>
+		<URL>https://www.bancrecer.com.ve/</URL>
+		<code>0168</code>
+		<name>Bancrecer, S.A. Banco Microfinanciero </name>
+		<rif>J316374173</rif>
+		<shortName>Bancrecer</shortName>
+	</element>
+	<element>
+		<URL>http://www.mibanco.com.ve/</URL>
+		<code>0169</code>
+		<name>Mi Banco, Banco Microfinanciero C.A.</name>
+		<rif>J315941023</rif>
+		<shortName>Mi Banco</shortName>
+	</element>
+	<element>
+		<URL>http://www.bancoactivo.com/</URL>
+		<code>0171</code>
+		<name>Banco Activo, Banco Universal </name>
+		<rif>J080066227</rif>
+		<shortName>Banco Activo</shortName>
+	</element>
+	<element>
+		<URL>http://www.bancamiga.com/</URL>
+		<code>0172</code>
+		<name>Bancamica, Banco Microfinanciero C.A. </name>
+		<rif>J316287599</rif>
+		<shortName>Bancamica</shortName>
+	</element>
+	<element>
+		<URL>http://www.bid.com.ve/</URL>
+		<code>0173</code>
+		<name>Banco Internacional de Desarrollo, C.A. Banco Universal</name>
+		<rif>J294640109</rif>
+		<shortName>Banco Internacional de Desarrollo</shortName>
+	</element>
+	<element>
+		<URL>http://www.banplus.com/</URL>
+		<code>0174</code>
+		<name>Banplus Banco Universal, C.A  </name>
+		<rif>J000423032</rif>
+		<shortName>Banplus</shortName>
+	</element>
+	<element>
+		<URL>http://www.bicentenariobu.com/</URL>
+		<code>0175</code>
+		<name>Banco Bicentenario del Pueblo de la Clase Obrera, Mujer y Comunas B.U.</name>
+		<rif>G200091487</rif>
+		<shortName>Banco Bicentenario</shortName>
+	</element>
+	<element>
+		<URL>http://www.novobanco.com.ve/site/</URL>
+		<code>0176</code>
+		<name>Novo Banco, S.A. Sucursal Venezuela Banco Universal</name>
+		<rif>J308918644</rif>
+		<shortName>Novo Banco</shortName>
+	</element>
+	<element>
+		<URL>http://www.banfanb.com.ve/</URL>
+		<code>0177</code>
+		<name>Banco de la Fuerza Armada Nacional Bolivariana, B.U.</name>
+		<rif>G200106573</rif>
+		<shortName>BANFANB</shortName>
+	</element>
+	<element>
+		<URL>https://www.citibank.com.ve</URL>
+		<code>0190</code>
+		<name>Citibank N.A.</name>
+		<rif>J000526621</rif>
+		<shortName>Citibank</shortName>
+	</element>
+	<element>
+		<URL>http://www.bnc.com.ve/</URL>
+		<code>0191</code>
+		<name>Banco Nacional de Crédito, C.A. Banco Universal</name>
+		<rif>J309841327</rif>
+		<shortName>BNC</shortName>
+	</element>
+	<element>
+		<URL>http://www.imcp.gob.ve/</URL>
+		<code>0601</code>
+		<name>Instituto Municipal de Crédito Popular</name>
+		<rif>G200068973</rif>
+		<shortName>Instituto Municipal de Crédito Popular</shortName>
+	</element>
+</root>

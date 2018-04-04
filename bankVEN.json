@@ -1,0 +1,212 @@
+[
+    {
+        "code":"0001",
+        "name":"Banco Central de Venezuela",
+        "shortName":"BCV",
+        "rif":"G200001100",
+        "URL":"https://www.bcv.org.ve/"
+    },
+    {
+        "code":"0102",
+        "name":"Banco de Venezuela S.A.C.A. Banco Universal",
+        "shortName":"Banco de Venezuela",
+        "rif":"G200099976",
+        "URL":"http://www.bancodevenezuela.com/"
+    },
+    {
+        "code":"0104",
+        "name":"Venezolano de Crédito, S.A. Banco Universal",
+        "shortName":"Venezolano de Crédito",
+        "rif":"J000029709",
+        "URL":"http://www.venezolano.com/"
+    },
+    {
+        "code":"0105",
+        "name":"Banco Mercantil, C.A. Banco Universal",
+        "shortName":"Mercantil",
+        "rif":"J000029610",
+        "URL":"https://www.mercantilbanco.com/"
+    },
+    {
+        "code":"0108",
+        "name":"Banco Provincial, S.A. Banco Universal",
+        "shortName":"Banco Provincial - BBVA",
+        "rif":"J000029679",
+        "URL":"https://www.provincial.com/"
+    },
+    {
+        "code":"0114",
+        "name":"Bancaribe C.A. Banco Universal",
+        "shortName":"Bancaribe",
+        "rif":"J000029490",
+        "URL":"https://www.bancaribe.com.ve/"
+    },
+    {
+        "code":"0115",
+        "name":"Banco Exterior C.A. Banco Universal",
+        "shortName":"Banco Exterior",
+        "rif":"J000029504",
+        "URL":"http://www.bancoexterior.com/"
+    },
+    {
+        "code":"0116",
+        "name":"Banco Occidental de Descuento, Banco Universal C.A",
+        "shortName":"BOD",
+        "rif":"J300619460",
+        "URL":"http://www.bod.com.ve/"
+    },
+    {
+        "code":"0128",
+        "name":"Banco Caroni C.A. Banco Universal ",
+        "shortName":"Banco Caroni",
+        "rif":"J095048551",
+        "URL":"http://www.bancocaroni.com.ve/"
+    },    
+    {
+        "code":"0134",
+        "name":"Banesco Banco Universal S.A.C.A.",
+        "shortName":"Banesco",
+        "rif":"J070133805",
+        "URL":"http://www.banesco.com/"
+    },
+    {
+        "code":"0137",
+        "name":"Banco Sofitasa, Banco Universal",
+        "shortName":"Sofitasa",
+        "rif":"J090283846",
+        "URL":"http://www.sofitasa.com/"
+    },
+    {
+        "code":"0138",
+        "name":"Banco Plaza, Banco Universal C.A",
+        "shortName":"Banco Plaza",
+        "rif":"J002970553",
+        "URL":"http://www.bancoplaza.com/"
+    },
+    {
+        "code":"0146",
+        "name":"Banco de la Gente Emprendedora C.A",
+        "shortName":"Bangente",
+        "rif":"J301442040",
+        "URL":"http://www.bangente.com.ve/"
+    },
+    {
+        "code":"0151",
+        "name":"Banco Fondo Común C.A. Banco Universal",
+        "shortName":"Banco Fondo Comun",
+        "rif":"J000723060",
+        "URL":"https://www.bfc.com.ve/"
+    },  
+    {
+        "code":"0156",
+        "name":"100% Banco, Banco Universal C.A.",
+        "shortName":"100% Banco",
+        "rif":"J085007768",
+        "URL":"http://www.100x100banco.com/"
+    },
+    {
+        "code":"0157",
+        "name":"DelSur, Banco Universal C.A.",
+        "shortName":"DelSur ",
+        "rif":"J000797234",
+        "URL":"http://www.delsur.com.ve/"
+    },
+    {
+        "code":"0163",
+        "name":"Banco del Tesoro, C.A. Banco Universal",
+        "shortName":"Banco del Tesoro",
+        "rif":"G200051876",
+        "URL":"http://www.bt.gob.ve/"
+    },
+    {
+        "code":"0166",
+        "name":"Banco Agrícola de Venezuela, C.A. Banco Universal",
+        "shortName":"Banco Agrícola",
+        "rif":"G200057955",
+        "URL":"http://www.bav.com.ve/  "
+    },    
+    {
+        "code":"0168",
+        "name":"Bancrecer, S.A. Banco Microfinanciero ",
+        "shortName":"Bancrecer",
+        "rif":"J316374173",
+        "URL":"https://www.bancrecer.com.ve/"
+    },
+    {
+        "code":"0169",
+        "name":"Mi Banco, Banco Microfinanciero C.A.",
+        "shortName":"Mi Banco",
+        "rif":"J315941023",
+        "URL":"http://www.mibanco.com.ve/"
+    },
+    {
+        "code":"0171",
+        "name":"Banco Activo, Banco Universal ",
+        "shortName":"Banco Activo",
+        "rif":"J080066227",
+        "URL":"http://www.bancoactivo.com/"
+    },
+    {
+        "code":"0172",
+        "name":"Bancamica, Banco Microfinanciero C.A. ",
+        "shortName":"Bancamica",
+        "rif":"J316287599",
+        "URL":"http://www.bancamiga.com/"
+    },
+    {
+        "code":"0173",
+        "name":"Banco Internacional de Desarrollo, C.A. Banco Universal",
+        "shortName":"Banco Internacional de Desarrollo",
+        "rif":"J294640109",
+        "URL":"http://www.bid.com.ve/"
+    },
+    {
+        "code":"0174",
+        "name":"Banplus Banco Universal, C.A  ",
+        "shortName":"Banplus",
+        "rif":"J000423032",
+        "URL":"http://www.banplus.com/"
+    },
+    {
+        "code":"0175",
+        "name":"Banco Bicentenario del Pueblo de la Clase Obrera, Mujer y Comunas B.U.",
+        "shortName":"Banco Bicentenario",
+        "rif":"G200091487",
+        "URL":"http://www.bicentenariobu.com/"
+    },
+    {
+        "code":"0176",
+        "name":"Novo Banco, S.A. Sucursal Venezuela Banco Universal",
+        "shortName":"Novo Banco",
+        "rif":"J308918644",
+        "URL":"http://www.novobanco.com.ve/site/"
+    },
+    {
+        "code":"0177",
+        "name":"Banco de la Fuerza Armada Nacional Bolivariana, B.U.",
+        "shortName":"BANFANB",
+        "rif":"G200106573",
+        "URL":"http://www.banfanb.com.ve/"
+    },
+    {
+        "code":"0190",
+        "name":"Citibank N.A.",
+        "shortName":"Citibank",
+        "rif":"J000526621",
+        "URL":"https://www.citibank.com.ve"
+    },
+    {
+        "code":"0191",
+        "name":"Banco Nacional de Crédito, C.A. Banco Universal",
+        "shortName":"BNC",
+        "rif":"J309841327",
+        "URL":"http://www.bnc.com.ve/"
+    },
+    {
+        "code":"0601",
+        "name":"Instituto Municipal de Crédito Popular",
+        "shortName":"Instituto Municipal de Crédito Popular",
+        "rif":"G200068973",
+        "URL":"http://www.imcp.gob.ve/"
+    }
+]
