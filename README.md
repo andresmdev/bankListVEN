@@ -1,5 +1,5 @@
 #### Español
-# Lista De Bancos - Venezuela :ve: :bank:
+# Lista De Bancos - Venezuela :bank:
 
 ## Informacion
 
@@ -11,9 +11,8 @@
 
 
 
-
 #### English
-# Bank List - Venezuela :ve: :bank:
+# Bank List - Venezuela :bank: 
 
 ## Information
 
